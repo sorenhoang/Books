@@ -8,7 +8,11 @@ This repository keeps personal notes and summaries for books I read, organized b
 - Every book folder contains a `README.md` for takeaways, references, and chapter notes.
 
 ## Current Library
+- `Finance`
+	- `Cha Giàu Cha Nghèo`
 - `Software`
 	- `Designing Data-Intensive Applications`
+- `Story`
+	- `Sherlock Holmes`
 
 
