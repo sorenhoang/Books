@@ -1,5 +1,11 @@
 # 📘 **TÓM TẮT ĐẦY ĐỦ – PHẢI TRÁI ĐÚNG SAI**
 
+> Tác giả: Michael J. Sandel
+
+<div align="center">
+  <img src="./cover.jpg" alt="Phải Trái Đúng Sai book cover" width="300" />
+</div>
+
 *(Mức độ chi tiết cao – dạng ghi chú học thuật + ứng dụng thực tế)*
 
 ---

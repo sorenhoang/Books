@@ -1,6 +1,11 @@
 📘 ***Kỷ Luật Tự Giác – Thói Quen Của Người Thành Công***
 
+* Tác giả: Brian Tracy
 > Mục tiêu của cuốn sách: giúp người đọc hiểu **tự kỷ luật (self-discipline)** là nền tảng của mọi thành công, và hướng dẫn cách xây dựng nó qua thói quen, tư duy và hành động có hệ thống.
+
+<div align="center">
+   <img src="./cover.jpg" alt="Kỷ Luật Tự Giác" width="300"/>
+</div>
 
 ---
 
