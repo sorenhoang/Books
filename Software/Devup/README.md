@@ -1,5 +1,9 @@
 📘 ***DevUp – Tư Duy Tăng Trưởng Của Lập Trình Viên***
 
+<div align="center">
+  <img src="./devup-cover.jpg" alt="DevUp Cover" width="300" />
+</div>
+
 > Cuốn sách tập trung vào việc phát triển tư duy, kỹ năng và hệ thống làm việc giúp lập trình viên cải thiện hiệu suất, nâng cấp tư duy nghề nghiệp, tạo ra giá trị liên tục và trở thành phiên bản tốt hơn trong ngành công nghệ thay đổi nhanh.
 
 ---
