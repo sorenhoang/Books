@@ -1,4 +1,4 @@
-## **Interview Questions for Chapter 8 — The Trouble with Distributed Systems (WITH ANSWERS)**
+## **Interview Questions for Chapter 8 — The Trouble with Distributed Systems**
 ---
 
 # 🔷 **Section 1 — Partial Failures**
