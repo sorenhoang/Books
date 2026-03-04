@@ -1,0 +1,9 @@
+**Chapter 9 Summary**
+
+- **Date:** Tuesday, September 9.
+- **Another Outage:** Bill is pulled out of a tense budget meeting with Dick and Sarah due to a Severity 1 incident: the credit card processing systems are down, bringing sales at all retail stores to a halt.
+- **The Blame Game:** Arriving at the NOC, Bill finds the various IT teams (Development, Database, and Networking) arguing and pointing fingers. Everyone denies making any changes that could have caused the outage.
+- **The Rogue Engineer:** Suddenly, Brent speaks up on the conference call, asking people to "try it now" after quietly typing in a fix. The systems immediately come back up, but Bill is furious to discover that Brent was making unauthorized, undisclosed changes during a major outage.
+- **Enforcing Discipline:** Bill pulls Patty and Wes aside and demands strict discipline. He orders Patty to lead all future Sev 1 calls using a prepared timeline of changes, and he mandates bi-weekly mock incident drills so the team can practice handling emergencies methodically. He also orders Wes to get his engineers under control and stop the undisclosed changes.
+- **The Change Board:** At the next Change Advisory Board (CAB) meeting, the team successfully authorizes and schedules changes using Patty's new visual board. However, they soon realize a massive scheduling conflict: 173 changes are scheduled for Friday, the exact same day the highly volatile Phoenix project is set to deploy. The team wisely reschedules their changes to avoid the impending "forest fire".
+- **The Third Type of Work:** Staring at the hundreds of change cards on the wall after the meeting, Bill has an epiphany. He realizes that "changes" represent the **third category of work** that Erik challenged him to identify, existing alongside business projects and internal IT projects. He is left wondering what the elusive fourth category of work could possibly be.
